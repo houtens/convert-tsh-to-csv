@@ -15,6 +15,7 @@ We use opponent ids, scores and start/replies to construct a csv file in the for
 ```
 Division,Round,Player1,Score1,Player2,Score2
 A,1,Alan Bradley,348,Carl Denis,412
+...
 ```
 
 
